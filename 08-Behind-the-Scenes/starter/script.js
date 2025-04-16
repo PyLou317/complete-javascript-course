@@ -98,12 +98,12 @@
 // console.log('Before:', jessica.lastName);
 // console.log('After:', marriedJessica.lastName);
 
-const jessica = {
-    firtName: 'Jessica',
-    lastName: 'Williams',
-    age: 27,
-    family: ['Alice', 'Bob'],
-}
+// const jessica = {
+//     firtName: 'Jessica',
+//     lastName: 'Williams',
+//     age: 27,
+//     family: ['Alice', 'Bob'],
+// }
 
 // // Shallow copy
 // const jessicaCopy = { ...jessica }
